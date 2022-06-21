@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="amzn2-ami-kernel-5.10-hvm-2.0.20220426.0-x86_64-gp2" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\pballesg\\OneDrive\ -\ NTT\ DATA\ EMEAL\\Escritorio\\API\.Rooms\.Api\\Rooms\.Api\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,49 @@
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Room.CrossCutting.deps.json
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Room.CrossCutting.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Room.CrossCutting.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Aplication.Contracts.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Aplication.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Business.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.DataAccess.Contracts.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.DataAccess.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Aplication.Contracts.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Aplication.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Business.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.DataAccess.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.DataAccess.Contracts.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.AssemblyInfo.cs
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.csproj.CopyComplete
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\refint\Room.CrossCutting.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\ref\Room.CrossCutting.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Room.CrossCutting.deps.json
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Room.CrossCutting.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Room.CrossCutting.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Aplication.Contracts.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Aplication.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Business.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.DataAccess.Contracts.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.DataAccess.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Aplication.Contracts.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Aplication.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.Business.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.DataAccess.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\bin\Debug\net6.0\Rooms.DataAccess.Contracts.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.AssemblyInfo.cs
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.csproj.CopyComplete
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\refint\Room.CrossCutting.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\Room.CrossCutting.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Room.CrossCutting\obj\Debug\net6.0\ref\Room.CrossCutting.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\build_output\Room.CrossCutting.deps.json
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\build_output\Room.CrossCutting.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\build_output\Room.CrossCutting.pdb

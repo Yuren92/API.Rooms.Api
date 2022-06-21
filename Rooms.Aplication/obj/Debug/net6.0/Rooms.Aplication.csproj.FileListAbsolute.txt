@@ -1,0 +1,73 @@
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.deps.json
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.runtimeconfig.json
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.dll
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.pdb
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.Contracts.dll
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Business.dll
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.Contracts.dll
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.dll
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.Contracts.pdb
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.pdb
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Business.pdb
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.Contracts.pdb
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.csproj.AssemblyReference.cache
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.AssemblyInfoInputs.cache
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.AssemblyInfo.cs
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.csproj.CopyComplete
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.dll
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\refint\Rooms.Aplication.dll
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.pdb
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.genruntimeconfig.cache
+C:\Users\Pedro Ballesta\source\repos\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\ref\Rooms.Aplication.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.deps.json
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.runtimeconfig.json
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.Contracts.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Business.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.Contracts.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.Contracts.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Business.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.Contracts.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.csproj.AssemblyReference.cache
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.AssemblyInfoInputs.cache
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.AssemblyInfo.cs
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.csproj.CopyComplete
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\refint\Rooms.Aplication.dll
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.pdb
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.genruntimeconfig.cache
+C:\Users\pballesg\Desktop\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\ref\Rooms.Aplication.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.deps.json
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.runtimeconfig.json
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.Contracts.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Business.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.Contracts.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Aplication.Contracts.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.Business.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\bin\Debug\net6.0\Rooms.DataAccess.Contracts.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.csproj.AssemblyReference.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.AssemblyInfoInputs.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.AssemblyInfo.cs
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.csproj.CopyComplete
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\refint\Rooms.Aplication.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\Rooms.Aplication.genruntimeconfig.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Aplication\obj\Debug\net6.0\ref\Rooms.Aplication.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\build_output\Rooms.Aplication.deps.json
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\build_output\Rooms.Aplication.runtimeconfig.json
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\build_output\Rooms.Aplication.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\build_output\Rooms.Aplication.pdb

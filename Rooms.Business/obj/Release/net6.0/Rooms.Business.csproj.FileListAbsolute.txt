@@ -1,0 +1,14 @@
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\bin\Release\net6.0\Rooms.Business.deps.json
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\bin\Release\net6.0\Rooms.Business.runtimeconfig.json
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\bin\Release\net6.0\Rooms.Business.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\bin\Release\net6.0\Rooms.Business.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\obj\Release\net6.0\Rooms.Business.csproj.AssemblyReference.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\obj\Release\net6.0\Rooms.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\obj\Release\net6.0\Rooms.Business.AssemblyInfoInputs.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\obj\Release\net6.0\Rooms.Business.AssemblyInfo.cs
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\obj\Release\net6.0\Rooms.Business.csproj.CoreCompileInputs.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\obj\Release\net6.0\Rooms.Business.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\obj\Release\net6.0\refint\Rooms.Business.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\obj\Release\net6.0\Rooms.Business.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\obj\Release\net6.0\Rooms.Business.genruntimeconfig.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.Business\obj\Release\net6.0\ref\Rooms.Business.dll

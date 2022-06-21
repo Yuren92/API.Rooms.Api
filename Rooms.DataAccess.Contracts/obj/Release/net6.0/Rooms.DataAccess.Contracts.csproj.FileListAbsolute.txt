@@ -1,0 +1,14 @@
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\bin\Release\net6.0\Rooms.DataAccess.Contracts.deps.json
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\bin\Release\net6.0\Rooms.DataAccess.Contracts.runtimeconfig.json
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\bin\Release\net6.0\Rooms.DataAccess.Contracts.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\bin\Release\net6.0\Rooms.DataAccess.Contracts.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\obj\Release\net6.0\Rooms.DataAccess.Contracts.csproj.AssemblyReference.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\obj\Release\net6.0\Rooms.DataAccess.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\obj\Release\net6.0\Rooms.DataAccess.Contracts.AssemblyInfoInputs.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\obj\Release\net6.0\Rooms.DataAccess.Contracts.AssemblyInfo.cs
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\obj\Release\net6.0\Rooms.DataAccess.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\obj\Release\net6.0\Rooms.DataAccess.Contracts.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\obj\Release\net6.0\refint\Rooms.DataAccess.Contracts.dll
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\obj\Release\net6.0\Rooms.DataAccess.Contracts.pdb
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\obj\Release\net6.0\Rooms.DataAccess.Contracts.genruntimeconfig.cache
+C:\Users\pballesg\OneDrive - NTT DATA EMEAL\Escritorio\API.Rooms.Api\Rooms.DataAccess.Contracts\obj\Release\net6.0\ref\Rooms.DataAccess.Contracts.dll
